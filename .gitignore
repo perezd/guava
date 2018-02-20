@@ -18,3 +18,9 @@ out/
 
 # OS X
 .DS_Store
+
+# Bazel
+bazel-*
+
+# Emacs
+*~
